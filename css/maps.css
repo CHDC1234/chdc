@@ -1,0 +1,39 @@
+#mapContainer {
+  height: 800px;
+  width: 95%;
+  background: lightgray;
+  margin: 0 auto;
+}
+
+#sidebar {
+  width: 350px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 10;
+  padding: 10px;
+  font-family: verdana;
+}
+
+.info-box {
+  top: 25px;
+  left: 25px;
+  background-color: #e0ebf4;
+  padding: 10px;
+  margin-bottom: 10px
+}
+
+button {
+  padding: 20px;
+  font-weight: 1000;
+  border-radius: 10px;
+  background-color: lightyellow;
+}
+
+.legend-color-box {
+  height: 7px;
+  width: 7px;
+  float: left;
+  margin-left: 10px;
+}
