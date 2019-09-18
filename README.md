@@ -14,7 +14,7 @@ PDF Basic Info  [DONE]
      
 PDF on call calendar [DONE]
 
-PDF Contacts list and phone numbers 
+PDF Contacts list and phone numbers [DONE] 
 
 PDF Emergency Vendors 
 
