@@ -16,11 +16,11 @@ PDF on call calendar [DONE]
 
 PDF Contacts list and phone numbers [DONE] 
 
-PDF Emergency Vendors 
+PDF Emergency Vendors [HALF DONE]
 
-PDF Heating Systems 
+PDF Heating Systems [HALF DONE]
 
-PDF incident reporting (fillable pdf) 
+PDF incident reporting (fillable pdf) [DONE]
 
 
 Organizational Information
