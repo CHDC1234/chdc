@@ -1,12 +1,12 @@
-# CHDC
-Internal website for Clinton Housing Development Company front desk staff.
+# CHDC[DONE]
+Internal website for Clinton Housing Development Company front desk staff and bldng managers.[DONE]
 
 
-Photo 
-Mission 
-Vision 
+Photo [DONE]
+Mission [DONE]
+Vision  [DONE]
 
-PDF Basic Info 
+PDF Basic Info  [DONE]
       Buildings, managers, entity codes 
      
       
