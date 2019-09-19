@@ -25,7 +25,7 @@ PDF incident reporting (fillable pdf) [DONE]
 
 Organizational Information
 
-PDF Personel Policy [DONE]
+PDF Personnel Policy [DONE]
 
 PDF corporate policy 
 

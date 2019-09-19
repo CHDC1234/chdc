@@ -1,0 +1,35 @@
+#bg-primary {
+  background-color: #25632d;
+}
+
+.navbar.navbar-default {
+    background-color: #99ccff;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.navbar.navbar-default .navbar-collapse {
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+#display-4 {
+  font-size: 4.0rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+
+#btn-primary {
+  color: #ffffff;
+  background-color: #25632d;
+  border-color: #25632d;
+}
+
+#btn-primary:hover {
+  color: #25632d;
+  background-color: #56a660;
+  border-color: #56a660;
+}
