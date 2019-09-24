@@ -21,8 +21,8 @@ Forms
 # Guest Registration - Tiffany
 # Referral for Legal Action - Fillable
 # Lease Renewal - Tiffany
-# Riders - Tiffany
-# Lease Checklist - Tiffany
+# Riders - Fillable
+# Lease Checklist - Fillable
 # Payroll Sign In Form - Fillable
 
 
